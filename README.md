@@ -1,1 +1,1 @@
-# compiladores-projeto
+# compiladores-analizador-lexico
